@@ -1,5 +1,7 @@
 # 👋 Hey there
 I am Viraj, a Computer Science major, currently pursuing my Bachelors. 📖<br>I have a keen interest in Data Structures, C++, Python, Web Dev & Artificial Intelligence. 🤖<br>Constantly learning, gaming and working on new projects. 🎮🕹️<br>
+- 🔭 Working on developing **my coding skills.**
+- 🌱 Learning **Competitive programming and DSA.**
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viraj.patel4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/virajpatel4) 
 
