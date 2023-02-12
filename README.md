@@ -8,7 +8,10 @@ I am Viraj, a Computer Science major, currently pursuing my Bachelors. 📖<br>I
 </p>
 
 <p align="center">
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viraj.patel4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/virajpatel4)
+<a href="https://www.linkedin.com/in/virajpatel4" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Viraj" /></a>
+<a href="https://github.com/virajp4" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="Viraj" /></a>
+<a href="mailto:viraj.patel482@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Viraj" /></a>
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=virajp4&icon=1&color=1" alt="Viraj" />
 </p>
 
 ### 💻 Tech Stack
@@ -20,9 +23,6 @@ I am Viraj, a Computer Science major, currently pursuing my Bachelors. 📖<br>I
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=virajp4&icon=1&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/virajpatel4) 
