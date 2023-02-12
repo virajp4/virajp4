@@ -7,7 +7,7 @@ You'd usually find me:
 - 🌱 Learning **Competitive programming and DSA.**
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virajp4&theme=radical&hide_border=false"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virajp4&theme=dark&hide_border=false"/>
 </p>
 
 <p align="center">
