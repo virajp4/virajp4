@@ -1,4 +1,4 @@
-# 💫 Hey there 👋:
+# 👋 Hey there :
 I am Viraj, a Computer Science major, currently pursuing my Bachelors. 📖<br>I have a keen interest in Data Structures, C++, Python, Web Dev & Artificial Intelligence. 🤖<br>Constantly learning, gaming and working on new projects. 🎮🕹️<br>
 
 
