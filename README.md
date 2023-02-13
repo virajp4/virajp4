@@ -2,7 +2,7 @@
 I'm a Computer Science major, currently pursuing my Bachelors. 📖<br>I have a keen interest in Data Structures, C++, Python, Web Dev & Artificial Intelligence. 🤖<br>
 
 You'd usually find me:
-- 🎮 Gaming and **creating new projects.**
+- 🎮 Busy gaming and **creating new projects.**
 - 🔭 Working on developing **my coding skills.**
 - 🌱 Learning **Competitive programming and DSA.**
 
