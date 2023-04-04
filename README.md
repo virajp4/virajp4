@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I am Viraj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hey there! I am Viraj. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 I'm a Computer Science major, pursuing my Bachelors. 📖<br>I have a keen interest in Data Structures, C++, Python, Web Dev & Artificial Intelligence. 🤖<br>
 
@@ -9,7 +9,7 @@ You'd usually find me:
 
 I am currently working on:
 - [x] ~~Developing a PvP Chess game using Pygame.~~
-- [ ] Machine Learning Specialization by Stanford & DeepLearning.AI.
+- [x] ~~Machine Learning Specialization by Stanford & DeepLearning.AI.~~
 - [ ] The Web Developer Bootcamp by Colt Steele.
 - [ ] Developing my personal portfolio website.
 
