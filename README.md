@@ -7,11 +7,14 @@ You'd usually find me:
 - 🔭 Sharpening **my coding skills.**
 - 🌱 Learning **Competitive programming and DSA.**
 
+Check out my portfolio website <a href="https://virajp4.github.io/" target="_blank">here.</a>
+
 I am currently working on:
 - [x] ~~Developing a PvP Chess game using Pygame.~~
 - [x] ~~Machine Learning Specialization by Stanford & DeepLearning.AI.~~
+- [x] ~~Developing my personal portfolio website.~~
 - [ ] The Web Developer Bootcamp by Colt Steele.
-- [ ] Developing my personal portfolio website.
+
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virajp4&theme=dark&hide_border=false"/>
