@@ -4,13 +4,12 @@ I'm a Computer Science major, pursuing my Bachelors. 📖<br>I have a keen inter
 
 You'd usually find me:
 - 🎮 Gaming and **creating new projects.**
-- 🔭 Sharpening **my coding skills.**
-- 🌱 Learning **Competitive programming and DSA.**
-
-Check out my portfolio website <a href="https://virajp4.github.io/" target="_blank">here.</a>
+- 🔭 Working on **my coding skills.**
+- 
+Check out my portfolio website <a href="https://virajp4.me/" target="_blank">here.</a>
 
 I am currently working on:
-- [x] ~~Developing a PvP Chess game using Pygame.~~
+- [x] ~~Developing a PvP Chess game.~~
 - [x] ~~Machine Learning Specialization by Stanford & DeepLearning.AI.~~
 - [x] ~~Developing my personal portfolio website.~~
 - [ ] The Web Developer Bootcamp by Colt Steele.
