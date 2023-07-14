@@ -5,7 +5,7 @@ I'm a Computer Science major, pursuing my Bachelors. 📖<br>I have a keen inter
 You'd usually find me:
 - 🎮 Gaming and **creating new projects.**
 - 🔭 Working on **my coding skills.**
-- 
+  
 Check out my portfolio website <a href="https://virajp4.me/" target="_blank">here.</a>
 
 I am currently working on:
