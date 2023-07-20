@@ -1,6 +1,7 @@
 <h1 align="center">Hey there! I am Viraj. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I'm a Computer Science major, pursuing my Bachelors. 📖<br>I have a keen interest in Data Structures, C++, Python, Web Dev & Artificial Intelligence. 🤖<br>
+I'm a Computer Science major, pursuing my Bachelors. 
+📖<br>I have a keen interest in Data Structures, C++, Python, Web Dev & Artificial Intelligence. 🤖<br>
 
 You'd usually find me:
 - 🎮 Gaming and **creating new projects.**
