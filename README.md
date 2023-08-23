@@ -13,14 +13,6 @@ Check out my portfolio website <a href="https://virajp4.me/" target="_blank">her
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virajp4&theme=dark&hide_border=false"/>
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/virajpatel4" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Viraj" /></a>
-<a href="https://instagram.com/viraj.patel4" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Viraj" /></a>
-<a href="https://github.com/virajp4" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="Viraj" /></a>
-<a href="mailto:viraj.patel482@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Viraj" /></a>
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=virajp4&icon=1&color=1" alt="Viraj" />
-</p>
-
 <h2 align="center"> 💻 Tech Stack </h2>
 <div align="center">
    
