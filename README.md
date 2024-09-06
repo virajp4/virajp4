@@ -4,16 +4,12 @@ I'm a Computer Science major, pursuing my Bachelors.📖
 <br>I have a keen interest in Software Developement and Artificial Intelligence.🤖<br>
 
 You'd usually find me:
-- 🎮 Gaming and **creating new projects.**
-- 🔭 Contributing to **Open Source projects.**
-  
-Check out my portfolio website <a href="https://virajp4.tech/" target="_blank">here.</a>
+- 👩🏻‍💻 Working on <a href="https://getalai.com" target="_blank">**Alai**</a> to enable users to create high-quality slides.
+- 🎮 Working on cool **side projects.**
+- 🔭 Contributing to **Open Source.**
 
-<p align="start">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virajp4&theme=dark&hide_border=false"/>
-</p>
-
-<p align="start">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="virajp4's Github Stats" src="https://github-readme-stats.vercel.app/api?username=virajp4&show_icons=true&count_private=true&theme=algolia" height="192px"/></a></p>
+Other Links:
+- <a href="https://virajp4.tech/" target="_blank">Portfolio website</a>
+- <a href="https://github.com/virajp4-alai" target="_blank">Work account</a> @ Alai
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
